@@ -4,6 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna7054&label=Profile%20views&color=0e75b6&style=flat" alt="krishna7054" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna7054" alt="krishna7054" /></a> </p>
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+
+</video>
 
 - 🌱 I’m currently learning **React, DSA, CP, Open Source, DBMS, Freelancing**
 
